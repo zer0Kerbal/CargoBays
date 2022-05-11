@@ -7,17 +7,17 @@ tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- ManualInstallation.md v1.1.7.0
-Fuselage (DMF)
+Cargo Bays (DCB)
 created: 01 Oct 2019
 updated: 18 Apr 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# Fuselage (DMF)
+# Cargo Bays (DCB)
 
 [Home](./index.md)
 
-This part add-on adds two (2) electric charge producing parts
+A payload parts add-on that adds round cargo-bays various stack sizes and lengths with fold-flat door design.
 
 ## Installation Instructions
 
@@ -30,22 +30,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the DaMichel folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/DaMichel/AeroRadial`
+  * Delete `<KSP_ROOT>/GameData/DaMichel/CargoBays`
 * Extract the package's `DaMichel` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/DaMichel` --> `<KSP_ROOT>/GameData/`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/DaMichel/AeroRadial`
+  * you should end up with `<KSP_ROOT>/GameData/DaMichel/CargoBays`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/DaMichel/AeroRadial`
+  * Delete `<KSP_ROOT>/GameData/DaMichel/CargoBays`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/DaMichel/AeroRadial`
+  * you should end up with `<KSP_ROOT>/GameData/DaMichel/CargoBays`
 
 ## The following file layout must be present after installation
 
@@ -53,20 +53,20 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [DaMichel]
-      + [AeroRadial]
-        + [Agencies]
+      + [CargoBays]
+        + [Assets]
           ...
         + [Compatibility]
           ...
-        + [Flags]
-          ...
         + [Localization]
+          ...
+        + [Parts]
           ...
         * #.#.#.#.htm
         * changelog.md
         * License.txt
         * readme.htm
-        * AeroRadialLtd.version
+        * CargoBays.version
     ...
   * KSP.log
   ...
@@ -74,6 +74,6 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 
 ### Dependencies
 
-* none
+* [DaMichel Ltd (DM/L)][DML]
 
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "Fuselage (DMF)"
+[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
