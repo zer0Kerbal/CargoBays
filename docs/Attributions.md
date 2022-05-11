@@ -14,7 +14,7 @@ updated: 10 May 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-3x" style="color: firebrick"></i>
+<i class="fa fa-user-astronaut fa-spin fa-3x" style="color: firebrick"></i>
 
 # Cargo Bays (DCB)
 
