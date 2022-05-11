@@ -18,6 +18,7 @@ updated: 30 Apr 2022
 
 <!-- <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> -->
 <i class="fa-solid fa-file-certificate fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: firebrick" ></i>
+<i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: firebrick" ></i>
 
 <!-- <div class="fa-3x">
   <i class="fa-solid fa-file-certificate fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: firebrick" ></i>
