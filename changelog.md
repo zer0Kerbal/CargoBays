@@ -1,6 +1,6 @@
 # Changelog  
   
-| modName    | DaMichel's Fuselage (DMF)                                         |
+| modName    | DaMichel's Cargo Bays (DCB)                                         |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-3.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
@@ -51,7 +51,7 @@
 ### Status
 
 * Issues
-  * closes #1 - Fuselage (DMF) 1.1.99.0-prerelease `<Split'n'Polish: AeroRadial>`
+  * closes #1 - Cargo Bays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: AeroRadial>`
   * closes #2 - 1.1.99.0 Verify Legal Mumbo Jumbo
   * closes #3 - 1.1.99.0 Update Documentation
   * closes #4 - 1.1.99.0 Social Media
