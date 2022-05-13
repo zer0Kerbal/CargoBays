@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: DaanV2/Markdown-Action-Create-Indexes@v1.6.0
         with: 
-          folder: ${{github.workspace}}
+          folder: ${{github.workspace}}/docs/
 
       - name: Commit changes
         continue-on-error: true
