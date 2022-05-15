@@ -99,7 +99,6 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 * updates #7 - American English <us-en.cfg>
 * updates #6 - Localization - Master
 
-
 ### Add
 
 * [ghostparts.cfg]
@@ -113,7 +112,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 
 ### Moved
 
-* [FSAnimateGeneric
+* FSAnimateGeneric
   * into patch
 
 ### Updated
@@ -145,6 +144,23 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 * Released for Kerbal Space Program 1.8.1
 
 ## Adopted by zer0Kerbal
+
+### Asset Updates
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts
+* updates #28 - Asset Updates
 
 ### Localization
 
