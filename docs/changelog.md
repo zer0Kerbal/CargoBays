@@ -69,7 +69,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ## Version 1.1.0.1-prerelease - `<Spit'n'Polish>`
 
 * 2020-02-24
-* Released for Kerbal Space Program 1.8.1
+* Released for Kerbal Space Program 1.9.1
 
 * thank you to BenjaminCronin
   * for pointed out decorative right brace in changelogs
