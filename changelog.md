@@ -35,7 +35,7 @@
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts
-* closes #36 - Asset Updates
+* updates #28 - Asset Updates
 
 ### Localization
 
@@ -45,23 +45,16 @@
   * Localization/
     * [readme.md]
     * [quickstart.md]
-* updates #6 - American English <us-en.cfg>
-* updates #5 - Localization - Master
+* updates #7 - American English <us-en.cfg>
+* updates #6 - Localization - Master
 
 ### Status
 
 * Issues
-  * closes #1 - Cargo Bays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
-  * closes #2 - 1.1.99.0 Verify Legal Mumbo Jumbo
-  * closes #3 - 1.1.99.0 Update Documentation
-  * closes #4 - 1.1.99.0 Social Media
-
----
-
-## Version 1.1.0.2 - for KSP 1.12.3 [22-Mar-2022]
-
-* #4 - [ImgBot] Optimize images - contributed by imgbot[bot]
-* #6 - [ImgBot] Optimize images
+  * closes #2 - Cargo Bays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
+  * closes #3 - 1.1.99.0 Verify Legal Mumbo Jumbo
+  * closes #4 - 1.1.99.0 Update Documentation
+  * closes #5 - 1.1.99.0 Social Media
 
 ---
 
@@ -75,26 +68,66 @@
   * wite-out applied
 * Also dangling VERSION
   * superglue applied.
-* added
-  * attach node to the back (rear) of the parts
-* updated
-  * the DM-RFC texture.
-* RTG
-  * adjusted
-    * [cost] from 34950 to 20000
-    * [entryCost] from 58000 to 50000
-    * [TechRequired] from experimentalElectrics to largeElectrics
-* removed
-  * tags.cfg (redundant patch since tags now in localization)
 * updated product hero shots
 * created SpaceDock header
+
+### NEW
+
+* ***Introducing***
+  * 3.75m models
+    * 1.5m, 3m, 6m lengths
+    * [TechRequired] = largeVolumeContainment
+
+### Localization
+
+* Update
+  * <us-en.cfg>
+  * url's updated and updated to 2.5m
+  * corrected several small typo's in the localization dictionary
+* Add
+  * Localization/
+    * [readme.md]
+    * [quickstart.md]
+* updates #7 - American English <us-en.cfg>
+* updates #6 - Localization - Master
+
+
+### Add
+
+* [ghostparts.cfg]
+  * introduced
+  * original three parts have had their internal part names changed
+  * this file should prevent any Kraken attacks.
+* automatic GitHub action:
+  * Validate AVC .version files
+  * corresponding shield to Readme's
+  * Thank you @DasSkelett, and @HebaruSan
+
+### Moved
+
+* [FSAnimateGeneric
+  * into patch
+
+### Updated
+
+* integrated TweakScale patches
+  * if you don't have TweakScale installed, won't show up and won't hurt anything
+* corrected
+  * integrated tweakscale scale module
+    * reduced scales available
+  * 2.5m parts
+    * [techRequired] = largeVolumeContainment, specializedConstruction, largeVolumeContainment
+  * 3.75m parts
+    * [techRequired] = metaMaterials, largeVolumeContainment, metaMaterials
+* new KERBALCHANGELOG formating
+  * hopefully I got it right this time :o
 
 ### Status
 
 * Issues
-  * closes #33 - Previous Releases
-  * closes #35 - 1.1.0.1-prerelease
-  * updates #36 - Asset Updates
+  * closes #24 - Previous Releases
+  * closes #26 - 1.1.0.1-prerelease
+  * updates #28 - Asset Updates
 
 ---
 
@@ -103,15 +136,17 @@
 * 2020-02-17
 * Released for Kerbal Space Program 1.8.1
 
-* adopted by zer0Kerbal
-* for Kerbal Space Program (KSP) 1.9 (might work for earlier)
+## Adopted by zer0Kerbal
 
 ### Localization
 
-* Added
-  * <en-us.cfg>
+* Add
+  * Localization/
+    * [readme.md]
+    * [quickstart.md]
+    * <en-us.cfg>
   * translations welcomed through GitHub Push Request
-  * updates #5 - Localization - Master
+  * updates #6 - Localization - Master
   * closes #7 - American English <us-en.cfg>
   * closes #32 - Part Localization
 
@@ -119,17 +154,6 @@
 * file structure and modernization
 * modernized part.cfg
 * many little changes to patches/parts.
-
-### Added
-
-* New Part
-  * DM-RFC
-  * Radial Fuel Cell
-  * air breathing, liquid fuel powered generator
-  * producing 1.5 EC/s
-  * created DM-RFC texture
-* Compatibility patch
-  * On-Demand Fuel Cells (ODFC)
 
 ### Created
 
@@ -141,12 +165,14 @@
 * Curseforge entry
 * Forum post
 * .json
+* Forum thread
 
 ### Status
 
 * Issues
-  * updates #33 - Previous Releases
-  * closes #34 - 1.1.0.0-adoption
+  * updates #24 - Previous Releases
+  * closes #25 - 1.1.0.0-adoption
+  * updates #28 - Asset Updates
 
 ---
 
