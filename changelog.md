@@ -1,16 +1,16 @@
 # Changelog  
   
-| modName    | DaMichel's Cargo Bays (DCB)                                         |
+| modName    | DaMichel's CargoBays (DCB)                                        |
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-3.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/208131-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/Fuselage)               |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/Fuselage)             |
-| spacedock  | (https://spacedock.info/mod/2340)                                 |
-| ckan       | DMTanks-Fuselage                                                  |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/CargoBays)              |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/CargoBays)            |
+| spacedock  | (https://spacedock.info/mod/2339)                                 |
+| ckan       | DMTanks-CargoBays                                                 |
 
-## Version 2.1.99.0-prerelease - `<Split'n'Polish: AeroRadial>`
+## Version 2.1.99.0-prerelease - `<Split'n'Polish: CargoBays>`
 
 * 09 May 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
@@ -51,7 +51,7 @@
 ### Status
 
 * Issues
-  * closes #1 - Cargo Bays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: AeroRadial>`
+  * closes #1 - Cargo Bays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
   * closes #2 - 1.1.99.0 Verify Legal Mumbo Jumbo
   * closes #3 - 1.1.99.0 Update Documentation
   * closes #4 - 1.1.99.0 Social Media
@@ -98,7 +98,7 @@
 
 ---
 
-### Version 1.1.0.0-adoption - `<Fresh Coat of Paint: AeroRadial>`
+### Version 1.1.0.0-adoption - `<Fresh Coat of Paint: CargoBays>`
 
 * 2020-02-17
 * Released for Kerbal Space Program 1.8.1
