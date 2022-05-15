@@ -93,11 +93,20 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
   * url's updated and updated to 2.5m
   * corrected several small typo's in the localization dictionary
 * Add
+  * <es-es.cfg>
+    * translate.google.com
+  * <fr-fr.cfg>
+    * translate.google.com
+  * <it-it.cfg>
+    * translate.google.com
   * Localization/
-    * [readme.md]
-    * [quickstart.md]
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.0
 * updates #7 - American English <us-en.cfg>
 * updates #6 - Localization - Master
+* closes #10 - Spanish (Español) <es-es.cfg>
+* closes #11 - French (Français) <fr-fr.cfg>
+* closes #12 - Italian (Italiano) <it-it.cfg> help wanted type: localization
 
 ### Add
 
