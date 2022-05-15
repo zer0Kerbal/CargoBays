@@ -1,4 +1,12 @@
-# Changelog  
+---
+permalink: /Changelog.html
+title: The Change Log
+description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
+# layout: bare
+tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
+---
+
+# Changelog
   
 | modName    | DaMichel's CargoBays (DCB)                                        |
 | ---------- | ----------------------------------------------------------------- |
