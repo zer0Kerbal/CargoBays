@@ -27,7 +27,7 @@ A payload parts add-on that adds round cargo-bays various stack sizes and length
 
 * six (6) stock-a-like stack cargobays
 * two sizes (6 total parts)
-* all with fold-flat (accordian) doors
+* all with fold-flat (accordion) doors
 * 2.5 meter diameter
   * 1m, 2m, and 4m length
 * 3.75 meter
