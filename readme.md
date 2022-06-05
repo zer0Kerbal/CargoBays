@@ -95,9 +95,9 @@ or [![CKAN][CKAN:img]][CKAN:url]
 #### Suggests
 
 * [DaMichel's AeroRadial (DAR)][DAR]
-* [DaMichel's Fuselage (DAR)][DMF]
+* [DaMichel's Fuselage (DAR)][DAR]
 * [DaMichel's SphericalTanks (DST)][DST]
-* [DaMichel's Fuselage (DMF)][DAR]
+* [DaMichel's Fuselage (DMF)][DMF]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
 * [TweakScale][twk]
 
