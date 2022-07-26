@@ -2,7 +2,7 @@
   
 | modName    | DaMichel's CargoBays (DCB)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-3.0                                                      |
+| license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/CargoBays)              |
@@ -15,8 +15,23 @@
 * 26 Jul 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-### Add
+### Summary 1.1.99.0
 
+* Initial Prerelease
+* New Dependency
+  * [DaMichel Ltd (agency, flag, common files)(DM/L)][DML]
+
+[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
+
+### License
+
+* Updated License: CC-BY-SA-4.0
+  * was: CC-BY-SA-3.0
+* closes #36 - License
+
+* ### Add
+
+* Initial Prerelease
 * Dependency
   * DaMichel Ltd (agency, flag, common files)
 
