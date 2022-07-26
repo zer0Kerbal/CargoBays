@@ -2,15 +2,21 @@
     "schedule": "weekly",
     "ignoredFiles": [
         "GameData/DaMichel/CargoBays/*",
+        "source/*",
+        "**/@thumbs/**",
         "**/Agencies/**",
         "**/Assets/**",
         "**/Flags/**",
+        "**/FX/**",
         "**/Icons/**",
         "**/LegalMumboJumbo/**",
+        "**/Parts/**",
         "**/PluginData/**",
+        "**/Props/**",
+        "**/SimpleIcons/**",
+        "**/Spaces/**",
         "**/Textures/**",
-        "**/UI/**",
-        "**/@thumbs/**"
+        "**/UI/**"
     ],
     "aggressiveCompression": "false",
     "compressWiki": "true",
