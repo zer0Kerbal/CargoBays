@@ -13,7 +13,7 @@ updated: 13 May 2022 -->
 
 # DaMichel's CargoBays (DCB)
 
-A payload parts add-on that adds round cargo-bays various stack sizes and lengths with fold-flat door design.
+A payload parts add-on that adds round cargo-bays of various stack sizes and lengths with fold-flat door design.
 
 
 
