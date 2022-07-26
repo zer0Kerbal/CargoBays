@@ -1,11 +1,3 @@
----
-permalink: /Changelog.html
-title: The Change Log
-description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
-tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
----
-
 # Changelog
   
 | modName    | DaMichel's CargoBays (DCB)                                        |
@@ -18,9 +10,9 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 | spacedock  | (https://spacedock.info/mod/2339)                                 |
 | ckan       | DMTanks-CargoBays                                                 |
 
-## Version 2.1.99.0-prerelease - `<Split'n'Polish: CargoBays>`
+## CargoBays (DMF) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
 
-* 09 May 2022  
+* 26 Jul 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
 
 ### Add
