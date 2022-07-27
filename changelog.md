@@ -37,6 +37,14 @@
 * Dependency
   * DaMichel Ltd (agency, flag, common files)
 
+### Compatibility
+
+* [FSAnimate.cfg] v1.0.1.0
+		#DM_CargoBays_startEventGUIName = Bay Door: Open //#autoLOC_502069 = Open 
+		#DM_CargoBays_endEventGUIName = Bay Doors: Close //#autoLOC_502051 = Close
+		#DM_CargoBays_actionGUIName = Bay Doors: Toggle //#autoLOC_502077 = Toggle Bay Doors
+
+
 ### Asset Updates
 
 * create Assets/ folder
