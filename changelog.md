@@ -138,9 +138,6 @@
       * #DCB-MAG-strt --> #autoLOC_502051 // Close
       * #DCB-MAG-stop --> #autoLOC_502069 // Open
       * #DCB-MAG-name --> #autoLOC_502077 // Toggle Bay Doors
-
-
-
 * updates #6 - Localization - Master
 * closes #7 - English <en-us.cfg>
 * closes #10 - Spanish (Español) <es-es.cfg>
