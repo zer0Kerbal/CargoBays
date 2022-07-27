@@ -45,6 +45,62 @@
       * [startEventGUIName] = #autoLOC_502058 // Open Doors
       * [endEventGUIName] = #autoLOC_502058 // Open Doors
       * [actionGUIName] = #autoLOC_502077 // Toggle Bay Doors
+* Add
+  * [ghostparts.cfg] v1.0.0.0
+    * part renamed: [DM-fuselage-intake] --> DMfuselage-intake
+
+
+### Parts
+
+* Add
+  * header
+  * [DRAG_CUBE]
+  * @thumbs
+* Update
+  * [manufacturer] = #DML-Agency-titl
+* [DM-fuselage-adapter] v1.0.1.0
+  * [tags] now #autoLOC_500561 was #DMF-adapter-tags
+  * [ModuleCargoPart]
+    * Dimensions: x: 1.25, y: 1.88, z: 1.25
+    * Bounding Box Size: 2930.072 liters
+    * [packedVolume] = 3000
+* [DM-fuselage-front] v1.0.1.0
+  * [tags] now #autoLOC_500162 was #DMF-front-tags
+  * [ModuleCargoPart]
+    * [packedVolume] = 2150
+    * Dimensions: x: 1.25, y: 1.88, z: 0.89
+    * Bounding Box Size: 2091.797 liters
+* [DM-fuselage-cone] v1.0.1.0
+  * [tags] now #autoLOC_500111 was #DMF-cone-tags
+  * [ModuleCargoPart]
+    * Dimensions: x: 1.16, y: 1.88, z: 1.16
+    * Bounding Box Size: 2524.812 liters
+    * [packedVolume] = 2600
+* [DM-fuselage-tailboom] v1.0.1.0
+  * [tags] now #autoLOC_500165 was #DMF-tailboom-tags
+  * [ModuleCargoPart]
+    * Dimensions: x: 0.40, y: 3.75, z: 0.30
+    * Bounding Box Size: 450 liters
+    * [packedVolume] = 500
+* [DM-fuselage-X1] v1.0.1.0
+  * [tags] is #autoLOC_500573 was #DMF-X1-tags
+  * [ModuleCargoPart]
+    * Dimensions: x: 1.25, y: 1.88, z: 0.89
+    * Bounding Box Size: 2091.797 liters
+    * [packedVolume] = 2125
+* [DM-fuselage-X2] v1.0.1.0
+  * [tags] is #autoLOC_500573 was #DMF-X2-tags
+  * [ModuleCargoPart]
+    * Dimensions: x: 1.25, y: 3.75, z: 0.89
+    * Bounding Box Size: 4183.594 liters
+    * [packedVolume] = 4200
+* [DM-fuselage-intake] v1.0.1.0
+  * [tags] is #autoLOC_500575 was #DMF-intake-tags
+  * [ModuleCargoPart]
+    * Dimensions: x: 1.25, y: 2.23, z: 0.89
+    * Bounding Box Size: 2487.771 liters
+    * [packedVolume] = 2500
+* closes #38 - Update Parts
 
 
 ### Asset Updates
