@@ -40,9 +40,11 @@
 ### Compatibility
 
 * [FSAnimate.cfg] v1.0.1.0
-		#DM_CargoBays_startEventGUIName = Bay Door: Open //#autoLOC_502069 = Open 
-		#DM_CargoBays_endEventGUIName = Bay Doors: Close //#autoLOC_502051 = Close
-		#DM_CargoBays_actionGUIName = Bay Doors: Toggle //#autoLOC_502077 = Toggle Bay Doors
+  * [FSanimateGeneric]
+    * Localization
+      * [startEventGUIName] = #autoLOC_502058 // Open Doors
+      * [endEventGUIName] = #autoLOC_502058 // Open Doors
+      * [actionGUIName] = #autoLOC_502077 // Toggle Bay Doors
 
 
 ### Asset Updates
@@ -80,8 +82,16 @@
       * #DMF-startEventGUIName --> #autoLOC_6001425 // Toggle Intake
       * #DMF-endEventGUIName --> #autoLOC_6001426 // Close Intake
       * #DMF-actionGUIName --> #autoLOC_6001427 // Open Intake
+    * obsolete
+      * [#DM_CargoBays_startEventGUIName] = Bay Door: Open //#autoLOC_502069 = Open
+      * [#DM_CargoBays_endEventGUIName] = Bay Doors: Close //#autoLOC_502051 = Close
+      * [#DM_CargoBays_actionGUIName] = Bay Doors: Toggle //#autoLOC_502077 = Toggle Bay Doors
+
 * updates #6 - Localization - Master
 * closes #7 - English <en-us.cfg>
+* closes #10 - Spanish (Español) <es-es.cfg>
+* closes #11 - French (Français) <fr-fr.cfg>
+* closes #12 - Italian (Italiano) <it-it.cfg>
 * closes #35 - Add localized tags to parts
 * closes #23 - Part Localization
 
@@ -162,7 +172,7 @@
 * updates #6 - Localization - Master
 * closes #10 - Spanish (Español) <es-es.cfg>
 * closes #11 - French (Français) <fr-fr.cfg>
-* closes #12 - Italian (Italiano) <it-it.cfg> help wanted type: localization
+* closes #12 - Italian (Italiano) <it-it.cfg>
 
 ### Add
 
