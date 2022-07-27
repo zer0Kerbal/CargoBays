@@ -20,6 +20,8 @@
 * Initial Prerelease
 * New Dependency
   * [DaMichel Ltd (agency, flag, common files)(DM/L)][DML]
+* All thumbs should now be available.
+* Can now search for 'DCB' in the editor search bar to find all CargoBay parts.
 
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
 
@@ -27,7 +29,7 @@
 
 * Updated License: CC-BY-SA-4.0
   * was: CC-BY-SA-3.0
-* closes #36 - License
+* closes #34 - Update License
 
 * ### Add
 
@@ -55,21 +57,60 @@
 ### Localization
 
 * Update
-  * <us-en.cfg>
-* Add
-  * Localization/
-    * [readme.md]
-    * [quickstart.md]
-* updates #7 - American English <us-en.cfg>
+  * [en-us.cfg] v1.1.0.0
+  * [readme.md] v2.1.2.0
+  * [quickstart.md] v1.0.1.1
+  * Config/
+    * [Fuselage.cfg] v1.0.0.0
+      * adds localized tags to parts
+  * Parts
+    * [ModuleToggleCrossfeed]
+      * #DMF-enableText --> #autoLOC_236028 // Enable Crossfeed
+      * #DMF-disableText --> #autoLOC_236030 // Disable Crossfeed
+      * add: #autoLOC_236032 // Toggle Crossfeed
+    * [ModuleAnimateGeneric]
+      * #DMF-startEventGUIName --> #autoLOC_6001425 // Toggle Intake
+      * #DMF-endEventGUIName --> #autoLOC_6001426 // Close Intake
+      * #DMF-actionGUIName --> #autoLOC_6001427 // Open Intake
 * updates #6 - Localization - Master
+* closes #7 - English <en-us.cfg>
+* closes #35 - Add localized tags to parts
+* closes #23 - Part Localization
+
+### docs/
+
+* Add/Update
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Part-Catalog.md] v1.1.4.0
+  * [Why.md] v1.1.0.0
+  * [_config.yml]
+  * [changelog.md]
+    * add header for docs/
+* closes #36 - docs/
+
+### Documentation
+
+* Update
+  * [Readme.md] v1.6.9.2
+  * [ReleaseNotes.md] v1.3.1.1
+  * [Fuselage.version]
+    * remove
+      * [KSP_VERSION_MAX]
+* closes #37 - Update Documentation
 
 ### Status
 
 * Issues
-  * closes #2 - Cargo Bays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
+  * closes #2 - CargoBays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
   * closes #3 - 1.1.99.0 Verify Legal Mumbo Jumbo
   * closes #4 - 1.1.99.0 Update Documentation
-  * closes #5 - 1.1.99.0 Social Media
+  * closes #5 - 1.1.99.0 Update Social Media
 
 ---
 
