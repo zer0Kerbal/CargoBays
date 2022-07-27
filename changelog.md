@@ -131,17 +131,15 @@
       * adds localized tags to parts
   * Parts
     * [ModuleToggleCrossfeed]
-      * #DMF-enableText --> #autoLOC_236028 // Enable Crossfeed
-      * #DMF-disableText --> #autoLOC_236030 // Disable Crossfeed
+      * #DCB-enableText --> #autoLOC_236028 // Enable Crossfeed
+      * #DCB-disableText --> #autoLOC_236030 // Disable Crossfeed
       * add: #autoLOC_236032 // Toggle Crossfeed
     * [ModuleAnimateGeneric]
-      * #DMF-startEventGUIName --> #autoLOC_6001425 // Toggle Intake
-      * #DMF-endEventGUIName --> #autoLOC_6001426 // Close Intake
-      * #DMF-actionGUIName --> #autoLOC_6001427 // Open Intake
-    * obsolete
-      * [#DM_CargoBays_startEventGUIName] = Bay Door: Open //#autoLOC_502069 = Open
-      * [#DM_CargoBays_endEventGUIName] = Bay Doors: Close //#autoLOC_502051 = Close
-      * [#DM_CargoBays_actionGUIName] = Bay Doors: Toggle //#autoLOC_502077 = Toggle Bay Doors
+      * #DCB-MAG-strt --> #autoLOC_502051 // Close
+      * #DCB-MAG-stop --> #autoLOC_502069 // Open
+      * #DCB-MAG-name --> #autoLOC_502077 // Toggle Bay Doors
+
+
 
 * updates #6 - Localization - Master
 * closes #7 - English <en-us.cfg>
