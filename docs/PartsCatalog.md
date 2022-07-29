@@ -23,18 +23,36 @@ A payload parts add-on that adds round stock-a-like cargo-bays of various stack 
 
 ---
 
+***CargoBays:*** 1.25m, 1.875m. 2.5m, 3.75m and 5m diameters, relatively stock-like. Comes in three heights for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
+
 ### Contains
 
-* three (3) stock-a-like stack cargobays in two sizes (6 total parts)
+* fifteen (15) stock-a-like stack cargo bays
+* three (3) round stack sizes in five sizes
 * with fold-flat (accordion) doors
-* 2.5 meter diameter
-  * 1m, 2m, and 4m length
-* 3.75 meter
-  * 1.5m, 3m, and 6m length
+* 1.25m diameter
+  * 0.5m, 1m, and 2m long
+
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-1_icon.png" alt="dcb-125-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-2_icon.png" alt="dcb-125-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-4_icon.png" alt="dcb-125-4" width="25%" height="25%" />
+
+* 1.875m diameter
+  * 0.75m, 1.5m, and 3m long
+
+
+* 2.5m diameter
+  * 1m, 2m, and 4m long
+
+
+* 3.75m diameter
+  * 1.5m, 3m, and 6m long
+
+
+* 5m diameter
+  * 2m, 4m, and 8m long
 
 * PB-NUK Aerodynamic Radioisotope Thermoelectric Generator
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/DM-RTG_icon.png" alt="Mallet" width="25%" height="25%" />
+
 
 * PB-ZAP A Radial Aerodynamic Fuel Cell
 
@@ -43,10 +61,9 @@ A payload parts add-on that adds round stock-a-like cargo-bays of various stack 
 [top](#Parts-Catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-1_icon.png" alt="dcb-125-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-2_icon.png" alt="dcb-125-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-4_icon.png" alt="dcb-125-4" width="25%" height="25%" />
 
-dcb-125-1_icon.png
-dcb-125-2_icon.png
-dcb-125-4_icon.png
+
 
 dcb-187-1_icon.png
 dcb-187-2_icon.png
