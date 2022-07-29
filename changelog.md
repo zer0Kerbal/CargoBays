@@ -10,6 +10,20 @@
 | spacedock  | (https://spacedock.info/mod/2339)                                 |
 | ckan       | DMTanks-CargoBays                                                 |
 
+
+* [dcb-500-1.cfg] v1.0.0.0
+* [dcb-500-2.cfg] v1.0.0.0
+* [dcb-500-4.cfg] v1.0.0.0
+
+
+
+
+
+
+
+
+
+
 ## CargoBays (DMF) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
 
 * 26 Jul 2022  
