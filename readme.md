@@ -107,7 +107,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 #### Suggests
 
 * [DaMichel's AeroRadial (DAR)][DAR]
-* [DaMichel's CargoBays (DMF)][DMF]
+* [DaMichel's CargoBays (DCB)][DCB]
 * [DaMichel's SphericalTanks (DST)][DST]
 * [On Demand Fuel Cells (ODFC)][ODFC]
 * [GPO (Goo Pumps & Oils') Speed Pump (GPO)][GPO]
