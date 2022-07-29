@@ -288,7 +288,7 @@ CC BY-ND 4.0 by zer0Kerbal
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts
-* updates #28 - Asset Updates
+* closes #28 - Asset Updates
 
 ### Localization
 
