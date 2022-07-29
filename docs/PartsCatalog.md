@@ -43,3 +43,23 @@ A payload parts add-on that adds round stock-a-like cargo-bays of various stack 
 [top](#Parts-Catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+
+dcb-125-1_icon.png
+dcb-125-2_icon.png
+dcb-125-4_icon.png
+
+dcb-187-1_icon.png
+dcb-187-2_icon.png
+dcb-187-4_icon.png
+
+dcb-250-1_icon.png
+dcb-250-2_icon.png
+dcb-250-4_icon.png
+
+dcb-375-1_icon.png
+dcb-375-2_icon.png
+dcb-375-4_icon.png
+
+dcb-500-1_icon.png
+dcb-500-2_icon.png
+dcb-500-4_icon.png
