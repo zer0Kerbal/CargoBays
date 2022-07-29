@@ -10,24 +10,12 @@
 | spacedock  | (https://spacedock.info/mod/2339)                                 |
 | ckan       | DMTanks-CargoBays                                                 |
 
-
-* [dcb-500-1.cfg] v1.0.0.0
-* [dcb-500-2.cfg] v1.0.0.0
-* [dcb-500-4.cfg] v1.0.0.0
-
-
-
-
-
-
-
-
-
-
 ## CargoBays (DMF) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
 
-* 26 Jul 2022  
+* 27 Jul 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
+
+***DELETE EXISTING INSTALLATION THEN RE-INSTALL***
 
 ### Summary 1.1.99.0
 
@@ -35,7 +23,11 @@
 * New Dependency
   * [DaMichel Ltd (agency, flag, common files)(DM/L)][DML]
 * All thumbs should now be available.
-* Can now search for 'DCB' in the editor search bar to find all CargoBay parts.
+* Can now search for 'DCB' or `DM` in the editor search bar to find all CargoBay parts.
+* ***NEW*** Parts!
+  * 1.25m in three lengths: 0.5m, 1m, and 2m
+  * 1.875m in three lengths: 0.75m, 1.5m, and 3m
+  * 5.00m in three lengths: 2m, 4m, and 8m
 
 [DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
 
@@ -59,63 +51,45 @@
       * [startEventGUIName] = #autoLOC_502058 // Open Doors
       * [endEventGUIName] = #autoLOC_502058 // Open Doors
       * [actionGUIName] = #autoLOC_502077 // Toggle Bay Doors
-* Add
-  * [ghostparts.cfg] v1.0.0.0
-    * part renamed: [DM-fuselage-intake] --> DMfuselage-intake
 
+### Config
+
+* Update
+  * [ghostparts.cfg] v1.3.0.0
+    * moved from Compatibility/ to Config/
+    * Ghosts:
+      * v1.1.0.1
+        * 2.5m --> dm-round-cargobay
+      * v1.1.99.0
+        * 2.5m --> dm-round-cargobay250
+        * 3.75m --> dm-round-cargobay375
+    * Will be deactivated / removed in future releases.
+* Add
+  * [CargoBays.cfg] v1.0.0.0
+    * updates parts with localization strings
+    * adds three localizations strings together
 
 ### Parts
 
+* ***NEW*** Parts!
+  * 1.25m in three lengths: 0.5m, 1m, and 2m
+  * 1.875m in three lengths: 0.75m, 1.5m, and 3m
+  * 5.00m in three lengths: 2m, 4m, and 8m
 * Add
   * header
   * [DRAG_CUBE]
   * @thumbs
+  * [ModuleCargoPart] = packedVolume = -1
+  * [ModuleConductionMultiplier]
 * Update
   * [manufacturer] = #DML-Agency-titl
-* [DM-fuselage-adapter] v1.0.1.0
-  * [tags] now #autoLOC_500561 was #DMF-adapter-tags
-  * [ModuleCargoPart]
-    * Dimensions: x: 1.25, y: 1.88, z: 1.25
-    * Bounding Box Size: 2930.072 liters
-    * [packedVolume] = 3000
-* [DM-fuselage-front] v1.0.1.0
-  * [tags] now #autoLOC_500162 was #DMF-front-tags
-  * [ModuleCargoPart]
-    * [packedVolume] = 2150
-    * Dimensions: x: 1.25, y: 1.88, z: 0.89
-    * Bounding Box Size: 2091.797 liters
-* [DM-fuselage-cone] v1.0.1.0
-  * [tags] now #autoLOC_500111 was #DMF-cone-tags
-  * [ModuleCargoPart]
-    * Dimensions: x: 1.16, y: 1.88, z: 1.16
-    * Bounding Box Size: 2524.812 liters
-    * [packedVolume] = 2600
-* [DM-fuselage-tailboom] v1.0.1.0
-  * [tags] now #autoLOC_500165 was #DMF-tailboom-tags
-  * [ModuleCargoPart]
-    * Dimensions: x: 0.40, y: 3.75, z: 0.30
-    * Bounding Box Size: 450 liters
-    * [packedVolume] = 500
-* [DM-fuselage-X1] v1.0.1.0
-  * [tags] is #autoLOC_500573 was #DMF-X1-tags
-  * [ModuleCargoPart]
-    * Dimensions: x: 1.25, y: 1.88, z: 0.89
-    * Bounding Box Size: 2091.797 liters
-    * [packedVolume] = 2125
-* [DM-fuselage-X2] v1.0.1.0
-  * [tags] is #autoLOC_500573 was #DMF-X2-tags
-  * [ModuleCargoPart]
-    * Dimensions: x: 1.25, y: 3.75, z: 0.89
-    * Bounding Box Size: 4183.594 liters
-    * [packedVolume] = 4200
-* [DM-fuselage-intake] v1.0.1.0
-  * [tags] is #autoLOC_500575 was #DMF-intake-tags
-  * [ModuleCargoPart]
-    * Dimensions: x: 1.25, y: 2.23, z: 0.89
-    * Bounding Box Size: 2487.771 liters
-    * [packedVolume] = 2500
+  * [tags] now #autoLOC_500899
+  * [dcb-???-?] v1.0.1.0
+  * lint and reorganize
 * closes #38 - Update Parts
-
+* closes #39 - Add Parts: 1.25 (size1) (I)
+* closes #40 - Add Parts: 1.875 (size1p6) (IS)
+* closes #41 - Add Parts: 1.25 (size4) (IV)
 
 ### Asset Updates
 
@@ -137,21 +111,22 @@
 ### Localization
 
 * Update
-  * [en-us.cfg] v1.1.0.0
+  * clean and update all localizations
+    * <en-us.cfg> v1.1.0.0
+    * <es-es.cfg> v1.1.0.0
+    * <fr-fr.cfg> v1.1.0.0
+    * <it-it.cfg> v1.1.0.0
   * [readme.md] v2.1.2.0
   * [quickstart.md] v1.0.1.1
-  * Config/
-    * [Fuselage.cfg] v1.0.0.0
-      * adds localized tags to parts
   * Parts
     * [ModuleToggleCrossfeed]
-      * #DCB-enableText --> #autoLOC_236028 // Enable Crossfeed
-      * #DCB-disableText --> #autoLOC_236030 // Disable Crossfeed
-      * add: #autoLOC_236032 // Toggle Crossfeed
+      * {toggleText} = #autoLOC_236032
+      * {enableText} = #autoLOC_236028
+      * {disableText} = #autoLOC_236030
     * [ModuleAnimateGeneric]
-      * #DCB-MAG-strt --> #autoLOC_502051 // Close
-      * #DCB-MAG-stop --> #autoLOC_502069 // Open
-      * #DCB-MAG-name --> #autoLOC_502077 // Toggle Bay Doors
+      * {startEventGUIName} = #autoLOC_502069 //#autoLOC_502069 = Open
+      * {endEventGUIName} = #autoLOC_502051 //#autoLOC_502051 = Close
+      * {actionGUIName} = #autoLOC_502077 //#autoLOC_502077 = Toggle Bay Doors
 * updates #6 - Localization - Master
 * closes #7 - English <en-us.cfg>
 * closes #10 - Spanish (Español) <es-es.cfg>
@@ -182,7 +157,7 @@
 * Update
   * [Readme.md] v1.6.9.2
   * [ReleaseNotes.md] v1.3.1.1
-  * [Fuselage.version]
+  * [CargoBays.version]
     * remove
       * [KSP_VERSION_MAX]
 * closes #37 - Update Documentation
