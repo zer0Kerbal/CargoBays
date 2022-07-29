@@ -30,7 +30,8 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### Contains
 
-* three (3) stock-a-like stack cargobays in five sizes (15 total parts)
+* fifteen (15) stock-a-like stack cargo bays
+* three (3) round stack sizes in five sizes
 * with fold-flat (accordion) doors
 * 1.25m diameter
   * 0.5m, 1m, and 2m long
