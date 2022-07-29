@@ -33,7 +33,7 @@ A payload parts add-on that adds round stock-a-like cargo-bays of various stack 
 * 1.25m diameter
   * 0.5m, 1m, and 2m long
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-1_icon.png" alt="dcb-125-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-2_icon.png" alt="dcb-125-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-4_icon.png" alt="dcb-125-4" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-1_icon.png" alt="dcb-125-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-2_icon.png" alt="dcb-125-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-4_icon.png" alt="dcb-125-4" width="25%" height="25%" />
 
 * 1.875m diameter
   * 0.75m, 1.5m, and 3m long
@@ -56,12 +56,12 @@ A payload parts add-on that adds round stock-a-like cargo-bays of various stack 
 
 * PB-ZAP A Radial Aerodynamic Fuel Cell
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/DM-RFC_icon.png" alt="MicroPad" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/DM-RFC_icon.png" alt="MicroPad" width="25%" height="25%" />
 
 [top](#Parts-Catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-1_icon.png" alt="dcb-125-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-2_icon.png" alt="dcb-125-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/CargoBays/Parts/%40thumbs/dcb-125-4_icon.png" alt="dcb-125-4" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-1_icon.png" alt="dcb-125-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-2_icon.png" alt="dcb-125-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-4_icon.png" alt="dcb-125-4" width="25%" height="25%" />
 
 
 
