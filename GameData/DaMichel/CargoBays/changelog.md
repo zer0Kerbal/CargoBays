@@ -275,7 +275,7 @@
   * duplicate textures
   * duplicate models
 * relocate part.cfg to Parts
-* updates #28 - Asset Updates
+* closes #28 - Asset Updates
 
 ### Localization
 
