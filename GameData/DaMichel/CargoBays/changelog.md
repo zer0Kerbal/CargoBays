@@ -1,16 +1,8 @@
----
-permalink: /Changelog.html
-title: The Change Log
-description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
-# layout: bare
-tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
----
-
 # Changelog
   
 | modName    | DaMichel's CargoBays (DCB)                                        |
 | ---------- | ----------------------------------------------------------------- |
-| license    | CC-BY-SA-3.0                                                      |
+| license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/) |
 | github     | (https://github.com/zer0Kerbal/zer0Kerbal/CargoBays)              |
@@ -18,15 +10,86 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 | spacedock  | (https://spacedock.info/mod/2339)                                 |
 | ckan       | DMTanks-CargoBays                                                 |
 
-## Version 2.1.99.0-prerelease - `<Split'n'Polish: CargoBays>`
+## CargoBays (DMF) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
 
-* 09 May 2022  
+* 27 Jul 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-### Add
+***DELETE EXISTING INSTALLATION THEN RE-INSTALL***
 
+### Summary 1.1.99.0
+
+* Initial Prerelease
+* New Dependency
+  * [DaMichel Ltd (agency, flag, common files)(DM/L)][DML]
+* All thumbs should now be available.
+* Can now search for 'DCB' or `DM` in the editor search bar to find all CargoBay parts.
+* ***NEW*** Parts!
+  * 1.25m in three lengths: 0.5m, 1m, and 2m
+  * 1.875m in three lengths: 0.75m, 1.5m, and 3m
+  * 5.00m in three lengths: 2m, 4m, and 8m
+
+[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
+
+### License
+
+* Updated License: CC-BY-SA-4.0
+  * was: CC-BY-SA-3.0
+* closes #34 - Update License
+
+* ### Add
+
+* Initial Prerelease
 * Dependency
   * DaMichel Ltd (agency, flag, common files)
+
+### Compatibility
+
+* [FSAnimate.cfg] v1.0.1.0
+  * [FSanimateGeneric]
+    * Localization
+      * [startEventGUIName] = #autoLOC_502058 // Open Doors
+      * [endEventGUIName] = #autoLOC_502058 // Open Doors
+      * [actionGUIName] = #autoLOC_502077 // Toggle Bay Doors
+
+### Config
+
+* Update
+  * [ghostparts.cfg] v1.3.0.0
+    * moved from Compatibility/ to Config/
+    * Ghosts:
+      * v1.1.0.1
+        * 2.5m --> dm-round-cargobay
+      * v1.1.99.0
+        * 2.5m --> dm-round-cargobay250
+        * 3.75m --> dm-round-cargobay375
+    * Will be deactivated / removed in future releases.
+* Add
+  * [CargoBays.cfg] v1.0.0.0
+    * updates parts with localization strings
+    * adds three localizations strings together
+
+### Parts
+
+* ***NEW*** Parts!
+  * 1.25m in three lengths: 0.5m, 1m, and 2m
+  * 1.875m in three lengths: 0.75m, 1.5m, and 3m
+  * 5.00m in three lengths: 2m, 4m, and 8m
+* Add
+  * header
+  * [DRAG_CUBE]
+  * @thumbs
+  * [ModuleCargoPart] = packedVolume = -1
+  * [ModuleConductionMultiplier]
+* Update
+  * [manufacturer] = #DML-Agency-titl
+  * [tags] now #autoLOC_500899
+  * [dcb-???-?] v1.0.1.0
+  * lint and reorganize
+* closes #38 - Update Parts
+* closes #39 - Add Parts: 1.25 (size1) (I)
+* closes #40 - Add Parts: 1.875 (size1p6) (IS)
+* closes #41 - Add Parts: 1.25 (size4) (IV)
 
 ### Asset Updates
 
@@ -48,21 +111,64 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ### Localization
 
 * Update
-  * <us-en.cfg>
-* Add
-  * Localization/
-    * [readme.md]
-    * [quickstart.md]
-* updates #7 - American English <us-en.cfg>
+  * clean and update all localizations
+    * <en-us.cfg> v1.1.0.0
+    * <es-es.cfg> v1.1.0.0
+    * <fr-fr.cfg> v1.1.0.0
+    * <it-it.cfg> v1.1.0.0
+  * [readme.md] v2.1.2.0
+  * [quickstart.md] v1.0.1.1
+  * Parts
+    * [ModuleToggleCrossfeed]
+      * {toggleText} = #autoLOC_236032
+      * {enableText} = #autoLOC_236028
+      * {disableText} = #autoLOC_236030
+    * [ModuleAnimateGeneric]
+      * {startEventGUIName} = #autoLOC_502069 //#autoLOC_502069 = Open
+      * {endEventGUIName} = #autoLOC_502051 //#autoLOC_502051 = Close
+      * {actionGUIName} = #autoLOC_502077 //#autoLOC_502077 = Toggle Bay Doors
 * updates #6 - Localization - Master
+* closes #7 - English <en-us.cfg>
+* closes #10 - Spanish (Español) <es-es.cfg>
+* closes #11 - French (Français) <fr-fr.cfg>
+* closes #12 - Italian (Italiano) <it-it.cfg>
+* closes #35 - Add localized tags to parts
+* closes #23 - Part Localization
+
+### docs/
+
+* Add/Update
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Part-Catalog.md] v1.1.4.0
+  * [Why.md] v1.1.0.0
+  * [_config.yml]
+  * [changelog.md]
+    * add header for docs/
+* closes #36 - docs/
+
+### Documentation
+
+* Update
+  * [Readme.md] v1.6.9.2
+  * [ReleaseNotes.md] v1.3.1.1
+  * [CargoBays.version]
+    * remove
+      * [KSP_VERSION_MAX]
+* closes #37 - Update Documentation
 
 ### Status
 
 * Issues
-  * closes #2 - Cargo Bays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
+  * closes #2 - CargoBays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
   * closes #3 - 1.1.99.0 Verify Legal Mumbo Jumbo
   * closes #4 - 1.1.99.0 Update Documentation
-  * closes #5 - 1.1.99.0 Social Media
+  * closes #5 - 1.1.99.0 Update Social Media
 
 ---
 
@@ -106,7 +212,7 @@ tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 * updates #6 - Localization - Master
 * closes #10 - Spanish (Español) <es-es.cfg>
 * closes #11 - French (Français) <fr-fr.cfg>
-* closes #12 - Italian (Italiano) <it-it.cfg> help wanted type: localization
+* closes #12 - Italian (Italiano) <it-it.cfg>
 
 ### Add
 
