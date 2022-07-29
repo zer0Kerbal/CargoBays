@@ -26,16 +26,22 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 
 
-***CargoBays:*** 2.5m and 3.75m diameters, relatively stock-like. Comes in heights of 1, 2 and 4 m for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
+***CargoBays:*** 1.25m, 1.875m. 2.5m, 3.75m and 5m diameters, relatively stock-like. Comes in three heights for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
 
 ### Contains
 
-* three (3) stock-a-like stack cargobays in two sizes (6 total parts)
+* three (3) stock-a-like stack cargobays in five sizes (15 total parts)
 * with fold-flat (accordion) doors
-* 2.5 meter diameter
-  * 1m, 2m, and 4m length
-* 3.75 meter
-  * 1.5m, 3m, and 6m length
+* 1.25m diameter
+  * 0.5m, 1m, and 2m long
+* 1.875m diameter
+  * 0.75m, 1.5m, and 3m long
+* 2.5m diameter
+  * 1m, 2m, and 4m long
+* 3.75m diameter
+  * 1.5m, 3m, and 6m long
+* 5m diameter
+  * 2m, 4m, and 8m long
 
 ---
 
