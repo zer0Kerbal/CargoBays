@@ -1,5 +1,5 @@
 ---
-permalink: /PartCatalog.html
+permalink: /PartsCatalog.html
 title: Parts Catalog
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
 tags: parts,catalog,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
@@ -38,45 +38,23 @@ A payload parts add-on that adds round stock-a-like cargo-bays of various stack 
 * 1.875m diameter
   * 0.75m, 1.5m, and 3m long
 
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-187-1_icon.png" alt="dcb-187-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-187-2_icon.png" alt="dcb-187-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-187-4_icon.png" alt="dcb-187-4" width="25%" height="25%" />
 
 * 2.5m diameter
   * 1m, 2m, and 4m long
 
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-250-1_icon.png" alt="dcb-250-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-250-2_icon.png" alt="dcb-250-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-250-4_icon.png" alt="dcb-250-4" width="25%" height="25%" />
 
 * 3.75m diameter
   * 1.5m, 3m, and 6m long
 
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-375-1_icon.png" alt="dcb-375-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-375-2_icon.png" alt="dcb-375-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-375-4_icon.png" alt="dcb-375-4" width="25%" height="25%" />
 
 * 5m diameter
   * 2m, 4m, and 8m long
 
-* PB-NUK Aerodynamic Radioisotope Thermoelectric Generator
-
-
-
-* PB-ZAP A Radial Aerodynamic Fuel Cell
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/DM-RFC_icon.png" alt="MicroPad" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-500-1_icon.png" alt="dcb-500-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-500-2_icon.png" alt="dcb-500-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-500-4_icon.png" alt="dcb-500-4" width="25%" height="25%" />
 
 [top](#Parts-Catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-1_icon.png" alt="dcb-125-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-2_icon.png" alt="dcb-125-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-4_icon.png" alt="dcb-125-4" width="25%" height="25%" />
-
-
-
-dcb-187-1_icon.png
-dcb-187-2_icon.png
-dcb-187-4_icon.png
-
-dcb-250-1_icon.png
-dcb-250-2_icon.png
-dcb-250-4_icon.png
-
-dcb-375-1_icon.png
-dcb-375-2_icon.png
-dcb-375-4_icon.png
-
-dcb-500-1_icon.png
-dcb-500-2_icon.png
-dcb-500-4_icon.png
