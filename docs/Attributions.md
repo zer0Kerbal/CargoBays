@@ -50,7 +50,10 @@ updated: 03 Jun 2022 -->
 ### Translations
 
 <ul>
-  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/American-flag-sm.png" alt="English" style="zoom:150%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/EN.png" alt="English" style="zoom:100%;" /> English</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/ES.png" alt="Español" style="zoom:100%;" /> Spanish (Español)</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/FR.png" alt="Français" style="zoom:100%;" /> French (Français)</li>
+  <li><img src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/IT.png" alt="Italiano" style="zoom:100%;" /> Italian (Italiano)</li>
   <li><small>Additions and corrections welcome!</small></li>
 </ul>
 
