@@ -185,7 +185,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/CargoBays/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-* "CargoBays Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/ "CargoBays Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/CargoBays/issues "GitHub Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/CargoBays/blob/master/LICENSE "Github License"
 [MOD:notic]: https://zer0kerbal.github.io/CargoBays/Notices "GitHub Pages"
