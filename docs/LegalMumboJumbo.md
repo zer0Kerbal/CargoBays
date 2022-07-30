@@ -6,7 +6,7 @@ tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!-- LegalMumboJumbo.md v1.0.5.1
-DaMichel's Cargo Bays (DCB)
+DaMichel's CargoBays (DCB)
 created: 01 Feb 2022
 updated: 15 May 2022
 -->
@@ -26,8 +26,6 @@ updated: 15 May 2022
   * [Forum Post #1](#Forum-I)
   * [Forum Post #2](#Forum-II)
   * [Forum Post #3](#Forum-III)
-  <!-- * [Forum Post #4](#Forum-IV)
-  * [Forum Post #5](#Forum-V) -->
 
 ## License
 
@@ -53,16 +51,6 @@ updated: 15 May 2022
 
 ![Forum](./LegalMumboJumbo/FORUM-03.png)  
 [top](#Legal-Mumbo-Jumbo)
-<!-- 
-## Forum IV
-
-![Forum](./LegalMumboJumbo/FORUM-04.png)  
-[top](#Legal-Mumbo-Jumbo)
-
-## Forum V
-
-![Forum](./LegalMumboJumbo/FORUM-05.png)  
-[top](#Legal-Mumbo-Jumbo) -->
 
 ---
 
