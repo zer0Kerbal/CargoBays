@@ -4,13 +4,31 @@
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/CargoBays)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/CargoBays)            |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/CargoBays)              |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/) |
 | spacedock  | (https://spacedock.info/mod/2339)                                 |
 | ckan       | DMTanks-CargoBays                                                 |
 
-## CargoBays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
+## Version 1.1.99.1-prerelease - `<Thank you DaMichel>` edition
+
+* Released
+  * 13 Apr 2023
+  * Released for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+***DELETE EXISTING INSTALLATION THEN RE-INSTALL***
+
+### Summary 1.1.99.1
+
+* Dependency
+  * [DaMichel Limited (DMLL)](https://www.curseforge.com/kerbal/ksp-mods/damichelltd) *agency, flag, common files*
+* Can now search for 'DCB' or `DM` in the editor search bar to find all CargoBay parts.
+
+
+---
+
+## Version 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
 
 * 27 Jul 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
@@ -21,15 +39,13 @@
 
 * Initial Prerelease
 * New Dependency
-  * [DaMichel Ltd (agency, flag, common files)(DM/L)][DML]
-* All thumbs should now be available.
+  * [DaMichel Limited (DMLL)](https://www.curseforge.com/kerbal/ksp-mods/damichelltd) *agency, flag, common files*
 * Can now search for 'DCB' or `DM` in the editor search bar to find all CargoBay parts.
+* All thumbs should now be available.
 * ***NEW*** Parts!
   * 1.25m in three lengths: 0.5m, 1m, and 2m
   * 1.875m in three lengths: 0.75m, 1.5m, and 3m
   * 5.00m in three lengths: 2m, 4m, and 8m
-
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
 
 ### License
 
