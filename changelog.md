@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/2339)                                 |
 | ckan       | DMTanks-CargoBays                                                 |
 
-## CargoBays (DMF) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
+## CargoBays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
 
 * 27 Jul 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
