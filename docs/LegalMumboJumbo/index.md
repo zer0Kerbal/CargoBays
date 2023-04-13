@@ -5,4 +5,4 @@
 
 ## Documents
 - [License](License.md)
-- [Original-License](Original-License.md)
+- [OrigLicense](OrigLicense.md)
