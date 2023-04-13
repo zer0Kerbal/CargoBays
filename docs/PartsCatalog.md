@@ -4,11 +4,15 @@ title: Parts Catalog
 description: Bill, what are going to do tonight? Why Jeb, the same thing we do every night, Take over the world!
 tags: parts,catalog,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- PartsCatalog.md v1.1.4.0
+<!-- PartsCatalog.md v1.1.99.1
 DaMichel's Cargo Bays (DCB)
+created: 17 Feb 2022
+created: 01 Feb 2020
+updated: 13 Apr 2023
+
+TEMPLATE: PartsCatalog.md v1.1.4.2
 created: 01 Feb 2022
-updated: 15 May 2022 -->
+updated: 17 Feb 2023 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
@@ -21,10 +25,9 @@ DaMichel's Cargo Bays (DCB)
 
 A payload parts add-on that adds round stock-a-like cargo-bays of various stack sizes and lengths with fold-flat door design.
 
----
-
 ***CargoBays:*** 1.25m, 1.875m. 2.5m, 3.75m and 5m diameters, relatively stock-like. Comes in three heights for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
 
+<!-- no toc -->
 ### Contains
 
 * fifteen (15) stock-a-like stack cargo bays
