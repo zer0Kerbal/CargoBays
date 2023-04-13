@@ -4,13 +4,16 @@ title: Manual Installation
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
 tags: installation,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- ManualInstallation.md v1.1.8.0
+<!-- ManualInstallation.md v1.1.99.1
 Cargo Bays (DCB)
-created: 01 Oct 2019
-updated: 21 Jul 2022 -->
+created: 17 Feb 2022
+updated: 13 Apr 2023
 
-<!-- based upon work by Lisias -->
+TEMPLATE: ManualInstallation.md v1.1.9.0
+created: 01 Feb 2022
+updated: 27 Mar 2023
+
+based upon work by Lisias -->
 
 # Cargo Bays (DCB)
 
@@ -52,6 +55,14 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [DaMichel]
+      + [DaMichelLtd]
+        + [Agency]
+          ...
+        + [Flags]
+          ...
+        + [Localization]
+          ...
+        ...
       + [CargoBays]
         + [Assets]
           ...
@@ -65,18 +76,22 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
           ...
         * #.#.#.#.htm
         * Attributions.htm
+        * CargoBays.version
         * CC-BY-SA-4.0.txt
         * changelog.md
-        * CargoBays.version
         * ManualInstallation.htm
         * readme.htm
+      ...
     ...
+  * ModuleManager.ConfigCache
   * KSP.log
   ...
 ```
 
 ### Dependencies
 
-* [DaMichel Ltd (DM/L)][DML]
+* [DaMichel Ltd (DML)][DML]
 
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
+[DML]: https://www.curseforge.com/kerbal/ksp-mods/damichelltd "DaMichel Ltd (DML)"
+
+THIS file CC BY-ND 4.0 by zer0Kerbal

@@ -4,11 +4,16 @@ title: Localizations
 description: camera goes *click-click*
 tags: translations,localizations,languages,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
-<!-- Localizations.md v1.1.7.0
+<!-- Localizations.md v1.1.99.1
 DaMichel's Cargo Bays (DCB)
+created: 17 Feb 2022
+updated: 13 Apr 2023
+
+TEMPLATE: Localizations.md v1.1.8.0
 created: 01 Feb 2022
-updated: 03 Jun 2022 -->
+updated: 17 Mar 2023
+
+this file: CC BY-ND 4.0 by zer0Kerbal -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <div class="fa-3x">
@@ -67,4 +72,4 @@ __These localizations for KSP and its DLC's are available through Steam:__
 [TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+this file CC BY-ND 4.0 by zer0Kerbal

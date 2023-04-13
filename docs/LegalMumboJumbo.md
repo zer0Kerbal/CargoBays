@@ -4,12 +4,14 @@ title: Legal Mumbo Jumbo
 description: when the revolution comes, .... Legal Mumbo Jumbo (Douglas Adams)
 tags: legal,mumbo,jumbo,page,kerbal,ksp,zer0Kerbal,zedK
 ---
+<!-- LegalMumboJumbo.md v1.1.99.1
+DaMichel's Cargo Bays (DCB)
+created: 17 Feb 2022
+updated: 13 Apr 2023
 
-<!-- LegalMumboJumbo.md v1.0.5.1
-DaMichel's CargoBays (DCB)
+TEMPLATE: LegalMumboJumbo.md v1.0.5.2
 created: 01 Feb 2022
-updated: 15 May 2022
--->
+updated: 15 May 2022 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-file-contract fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #6495ED" ></i>
@@ -21,36 +23,36 @@ updated: 15 May 2022
 ## Legal Mumbo Jumbo
 
 * Table of Contents
-  * [Current License](#License)
-  * [Original License](#Previous-License)
-  * [Forum Post #1](#Forum-I)
-  * [Forum Post #2](#Forum-II)
-  * [Forum Post #3](#Forum-III)
+  * [Current License](#license)
+  * [Original License](#previous-license)
+  * [Forum Post #1](#forum-i)
+  * [Forum Post #2](#forum-ii)
+  * [Forum Post #3](#damichels-permission)
 
 ## License
 
 [License](./LegalMumboJumbo/License.md)  
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ### Previous License
 
-[License](./LegalMumboJumbo/Original-License.md)
-[top](#Legal-Mumbo-Jumbo)
+[License](./LegalMumboJumbo/OrigLicense.md)
+[top](#legal-mumbo-jumbo)
 
 ### Forum I
 
 ![Forum](./LegalMumboJumbo/FORUM-01.png)  
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
 ### Forum II
 
 ![Forum](./LegalMumboJumbo/FORUM-02.png)  
-[top](#Legal-Mumbo-Jumbo)
+[top](#legal-mumbo-jumbo)
 
-## Forum III
+## DaMichel's Permission
 
-![Forum](./LegalMumboJumbo/FORUM-03.png)  
-[top](#Legal-Mumbo-Jumbo)
+![Forum](./LegalMumboJumbo/DaMichelPermission.png)  
+[top](#legal-mumbo-jumbo)
 
 ---
 
