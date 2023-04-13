@@ -7,7 +7,6 @@ tags: parts,catalog,invoice,parts-list,packing,page,kerbal,ksp,zer0Kerbal,zedK
 <!-- PartsCatalog.md v1.1.99.1
 DaMichel's Cargo Bays (DCB)
 created: 17 Feb 2022
-created: 01 Feb 2020
 updated: 13 Apr 2023
 
 TEMPLATE: PartsCatalog.md v1.1.4.2
@@ -17,7 +16,7 @@ updated: 17 Feb 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-DaMichel's Cargo Bays (DCB)
+## DaMichel's Cargo Bays (DCB)
 
 [Home](./index.md)
 
@@ -36,28 +35,36 @@ A payload parts add-on that adds round stock-a-like cargo-bays of various stack 
 * 1.25m diameter
   * 0.5m, 1m, and 2m long
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-1_icon.png" alt="dcb-125-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-2_icon.png" alt="dcb-125-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-125-4_icon.png" alt="dcb-125-4" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-125-1_icon.png" alt="dcb-125-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-125-2_icon.png" alt="dcb-125-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-125-4_icon.png" alt="dcb-125-4" width="25%" height="25%" />
+
+[top](#parts-catalog)
 
 * 1.875m diameter
   * 0.75m, 1.5m, and 3m long
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-187-1_icon.png" alt="dcb-187-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-187-2_icon.png" alt="dcb-187-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-187-4_icon.png" alt="dcb-187-4" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-187-1_icon.png" alt="dcb-187-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-187-2_icon.png" alt="dcb-187-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-187-4_icon.png" alt="dcb-187-4" width="25%" height="25%" />
+
+[top](#parts-catalog)
 
 * 2.5m diameter
   * 1m, 2m, and 4m long
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-250-1_icon.png" alt="dcb-250-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-250-2_icon.png" alt="dcb-250-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-250-4_icon.png" alt="dcb-250-4" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-250-1_icon.png" alt="dcb-250-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-250-2_icon.png" alt="dcb-250-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-250-4_icon.png" alt="dcb-250-4" width="25%" height="25%" />
+
+[top](#parts-catalog)
 
 * 3.75m diameter
   * 1.5m, 3m, and 6m long
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-375-1_icon.png" alt="dcb-375-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-375-2_icon.png" alt="dcb-375-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-375-4_icon.png" alt="dcb-375-4" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-375-1_icon.png" alt="dcb-375-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-375-2_icon.png" alt="dcb-375-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-375-4_icon.png" alt="dcb-375-4" width="25%" height="25%" />
+
+[top](#parts-catalog)
 
 * 5m diameter
   * 2m, 4m, and 8m long
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-500-1_icon.png" alt="dcb-500-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-500-2_icon.png" alt="dcb-500-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/GameData/DaMichel/CargoBays/Parts/%40thumbs/dcb-500-4_icon.png" alt="dcb-500-4" width="25%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-500-1_icon.png" alt="dcb-500-1" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-500-2_icon.png" alt="dcb-500-2" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/docs/thumbs/dcb-500-4_icon.png" alt="dcb-500-4" width="25%" height="25%" />
 
-[top](#Parts-Catalog)
+[top](#parts-catalog)
 
 <!-- this file CC BY-ND 4.0 by zer0Kerbal -->
