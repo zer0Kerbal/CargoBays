@@ -26,6 +26,12 @@
 * Can now search for 'DCB' or `DM` in the editor search bar to find all CargoBay parts.
 
 
+* Issues
+  * closes #46 - DaMichel's CargoBays (DCB) 1.1.99.1-prerelease `<Thank you DaMichel>` edition
+  * closes #47 - 1.1.99.1 Additional Tasks
+  * closes #44 - Normals in .dds textures
+  * closes #45 - Parts in closed cargo bay have drag [Bug 🐞]:
+
 ---
 
 ## Version 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
