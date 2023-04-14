@@ -4,7 +4,6 @@ title: The Change Log
 description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 tags: changes,changelog,change-log,page,kerbal,ksp,zer0Kerbal,zedK
 ---
-
 <!-- 
 hdr-changelog.md v1.0.0.0
 CargoBays (DCB)
@@ -17,13 +16,46 @@ CC BY-ND 4.0 by zer0Kerbal
 | ---------- | ----------------------------------------------------------------- |
 | license    | CC-BY-SA-4.0                                                      |
 | author     | DaMichel, Bezzier and zer0Kerbal                                  |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/CargoBays)              |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/CargoBays)            |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/CargoBays)              |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207351-*/) |
 | spacedock  | (https://spacedock.info/mod/2339)                                 |
 | ckan       | DMTanks-CargoBays                                                 |
 
-## CargoBays (DCB) 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
+## Version 1.1.99.1-prerelease - `<Thank you DaMichel>` edition
+
+* Released
+  * 13 Apr 2023
+  * Released for Kerbal Space Program 1.12.5
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+***DELETE EXISTING INSTALLATION THEN RE-INSTALL***
+
+### Summary 1.1.99.1
+
+* Dependency
+  * [DaMichel Limited (DML)](https://www.curseforge.com/kerbal/ksp-mods/damichelltd) *agency, flag, common files*
+* Can now search for 'dcb' or `dm` in the editor search bar to find all CargoBay parts.
+
+* updated
+  * DRAG_CUBES
+    * some missing, some incorrect, some doubled
+  * Linted all files
+  * reconverted .tga textures to .dds
+  * ghostparts.cfg
+  * CargoBays.cfg
+* split out TweakScale.cfg from parts
+* added missing strings from localization files
+
+* Issues
+  * closes #46 - DaMichel's CargoBays (DCB) 1.1.99.1-prerelease `<Thank you DaMichel>` edition
+  * closes #47 - 1.1.99.1 Additional Tasks
+  * closes #44 - Normals in .dds textures
+  * closes #45 - Parts in closed cargo bay have drag [Bug 🐞]:
+
+---
+
+## Version 1.1.99.0-prerelease `<Split'n'Polish: CargoBays>`
 
 * 27 Jul 2022  
 * Release for Kerbal Space Program [KSP 1.12.x]
@@ -34,15 +66,13 @@ CC BY-ND 4.0 by zer0Kerbal
 
 * Initial Prerelease
 * New Dependency
-  * [DaMichel Ltd (agency, flag, common files)(DM/L)][DML]
-* All thumbs should now be available.
+  * [DaMichel Limited (DMLL)](https://www.curseforge.com/kerbal/ksp-mods/damichelltd) *agency, flag, common files*
 * Can now search for 'DCB' or `DM` in the editor search bar to find all CargoBay parts.
+* All thumbs should now be available.
 * ***NEW*** Parts!
   * 1.25m in three lengths: 0.5m, 1m, and 2m
   * 1.875m in three lengths: 0.75m, 1.5m, and 3m
   * 5.00m in three lengths: 2m, 4m, and 8m
-
-[DML]: https://forum.kerbalspaceprogram.com/index.php?/topic/208107-*/ "DaMichel Ltd (DM/L)"
 
 ### License
 
@@ -367,4 +397,4 @@ Correcting typos
 
 ---
 
-<!-- This File CC BY-ND 4.0 by zer0Kerbal -->
+<!-- This File CC BY-ND 4.0 by zer0Kerbal -->
