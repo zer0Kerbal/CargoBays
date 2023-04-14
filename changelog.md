@@ -22,9 +22,18 @@
 ### Summary 1.1.99.1
 
 * Dependency
-  * [DaMichel Limited (DMLL)](https://www.curseforge.com/kerbal/ksp-mods/damichelltd) *agency, flag, common files*
-* Can now search for 'DCB' or `DM` in the editor search bar to find all CargoBay parts.
+  * [DaMichel Limited (DML)](https://www.curseforge.com/kerbal/ksp-mods/damichelltd) *agency, flag, common files*
+* Can now search for 'dcb' or `dm` in the editor search bar to find all CargoBay parts.
 
+* updated
+  * DRAG_CUBES
+    * some missing, some incorrect, some doubled
+  * Linted all files
+  * reconverted .tga textures to .dds
+  * ghostparts.cfg
+  * CargoBays.cfg
+* split out TweakScale.cfg from parts
+* added missing strings from localization files
 
 * Issues
   * closes #46 - DaMichel's CargoBays (DCB) 1.1.99.1-prerelease `<Thank you DaMichel>` edition
