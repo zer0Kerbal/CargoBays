@@ -16,7 +16,7 @@ updated: 17 Feb 2023 -->
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-explosion fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #FF7E03" ></i>
 
-## DaMichel's Cargo Bays (DCB)
+## [DaMichel's Cargo Bays (DCB)][mod]
 
 [Home](./index.md)
 
@@ -67,4 +67,6 @@ A payload parts add-on that adds round stock-a-like cargo-bays of various stack 
 
 [top](#parts-catalog)
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+this file CC BY-ND 4.0 by zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/CargoBays "Cargo Bays (DCB)"
