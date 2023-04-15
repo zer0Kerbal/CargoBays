@@ -6,8 +6,8 @@ tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 <!-- Marketing.md v1.0.0.0
 CargoBays (DCB)
-created: 18 Apr 2014
-updated: 13 Apr 2023
+created:17 Feb 2022
+updated: 14 Apr 2023
 
 TEMPLATE: Marketing.md v1.0.2.0
 created: 13 Apr 2022
@@ -22,12 +22,13 @@ this file:
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa-solid fa-user-astronaut fa-beat-fade fa-3x" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25;color: #BADA55" ></i>
 
-# CargoBays (DCB) [WIP]
+# [CargoBays (DCB)][mod] [WIP]
 
 [Home](./index.md)
 
 ## Marketing Slicks
 
+<!-- no toc -->
 * Table of Contents
   * [Image 1](#image-01)
   * [Image 1](#image-02)
@@ -44,4 +45,6 @@ this file:
 
 [top](#table-of-contents)
 
-<!-- this file CC BY-ND 4.0 by zer0Kerbal -->
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/CargoBays "CargoBays (DCB)"
