@@ -9,7 +9,7 @@ updated: 13 Apr 2023
 
 this file: CC BY-ND 4.0 by zer0Kerbal -->
 
-[![CargoBays][SHD:mod]][forum]  
+[![CargoBays][SHD:mod]][CURSFG:url]  
 [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![Pages][SHD:pgs]][pages]
 
@@ -50,10 +50,10 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 >* [Marketing Slicks][markt]
 >* [Parts Catalog][parts] for part pictures
 
-### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" >
+### <img src="https://cdn.pixabay.com/photo/2014/05/14/14/17/youtube-344106_960_720.png" alt="Youtube logo" height="33px" width="66px">
 
 * Review
-  * by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-kottabos/)
+  * by [`Kottabos Gaming`](https://forum.kerbalspaceprogram.com/index.php?/profile/36583-*/)
 
 [![Kottabos reviews DaMichel's Parts](https://img.youtube.com/vi/sYEXrGT44jo/0.jpg)](https://www.youtube.com/watch?v=sYEXrGT44jo)
 
@@ -135,7 +135,6 @@ Most recent releases only available via CurseForge/OverWolf Website/App
 
 > Forum: [Thread][forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
->
 
 #### Previous Author (2) - [`zer0Kerbal`][zer0Kerbal]
 
@@ -231,7 +230,7 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- links to add-ons/mods -->  
 [DML]: https://www.curseforge.com/kerbal/ksp-mods/damichelltd "DaMichel Ltd (DML)"
-[DAR]: https://www.curseforge.com/kerbal/ksp-mods/AeroRadial "DaMichel's AeroRadial (DAR)"
+[DAR]: https://www.curseforge.com/kerbal/ksp-mods/AeroRadial "AeroRadial (DAR)"
 [DCB]: https://www.curseforge.com/kerbal/ksp-mods/CargoBays "DaMichel's CargoBays (DCB)"
 [DMF]: https://www.curseforge.com/kerbal/ksp-mods/Fuselage "DaMichel's Fuselage (DMF)"
 [DST]: https://www.curseforge.com/kerbal/ksp-mods/SphericalTanks "DaMichel's SphericalTanks (DST)"
@@ -251,9 +250,9 @@ Comment, click, like, share, up-vote, subscribe
 
 <!-- financial support -->
 [PAYPAL:img]: https://img.shields.io/badge/Buy%20me%20some%20-LFO-BADA55?style=for-the-badge&logo=paypal&labelColor=FFDD00/ "PayPal"
-[PAYPAL:url]: https://www.paypal.com/donate?hosted_button_id=DC22YHMEJREKL/ "PayPal"
+[PAYPAL:url]: https://www.paypal.com/donate/?hosted_button_id=DC22YHMEJREKL "PayPal"
 [PATREON:img]: https://img.shields.io/badge/Patreon%20-Patreonize-FF424D?style=for-the-badge&logo=patreon/ "Patreon"
-[PATREON:url]: https://www.patreon.com/bePatron?u=23390503/ "Patreon"
+[PATREON:url]: https://www.patreon.com/zer0Kerbal/membership "Patreon"
 
 <!-- Localization -->
 [lreadme]: https://github.com/zer0Kerbal/zer0Kerbal/blob/master/Localization/readme.md "Localization Readme"
