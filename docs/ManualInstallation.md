@@ -15,7 +15,7 @@ updated: 27 Mar 2023
 
 based upon work by Lisias -->
 
-# Cargo Bays (DCB)
+# [Cargo Bays (DCB)][mod]
 
 [Home](./index.md)
 
@@ -55,7 +55,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 <KSP_ROOT>
   + [GameData]
     + [DaMichel]
-      + [DaMichelLtd]
+      + [DaMichelLtd][DML]
         + [Agency]
           ...
         + [Flags]
@@ -63,7 +63,7 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
         + [Localization]
           ...
         ...
-      + [CargoBays]
+      + [CargoBays][DCB]
         + [Assets]
           ...
         + [Compatibility]
@@ -93,5 +93,6 @@ To install, place the `GameData` folder inside your Kerbal Space Program folder:
 * [DaMichel Ltd (DML)][DML]
 
 [DML]: https://www.curseforge.com/kerbal/ksp-mods/damichelltd "DaMichel Ltd (DML)"
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/CargoBays "Cargo Bays (DCB)"
 
-THIS file CC BY-ND 4.0 by zer0Kerbal
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
