@@ -20,7 +20,7 @@ this file: CC BY-ND 4.0 by zer0Kerbal -->
   <i class="fa fa-language fa-beat-fade" style="--fa-beat-fade-opacity: 0.1; --fa-beat-fade-scale: 1.25; color: #BADA55"></i>
 </div>
 
-# DaMichel's Cargo Bays (DCB)
+## [DaMichel's Cargo Bays (DCB)][mod]
 
 [Home](./index.md)
 
@@ -72,4 +72,6 @@ __These localizations for KSP and its DLC's are available through Steam:__
 [TR]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TR.png "Türk"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/TW.png "国语"
 
-this file CC BY-ND 4.0 by zer0Kerbal
+THIS FILE: CC BY-ND 4.0 by zer0Kerbal
+
+[mod]: https://www.curseforge.com/kerbal/ksp-mods/CargoBays "Cargo Bays (DCB)"
