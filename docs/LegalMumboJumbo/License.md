@@ -7,7 +7,7 @@ DaMichel's Cargo Bays (DCB)
 created: 01 Feb 2022
 updated: 10 May 2022 -->
 
-# [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
+# [CC BY-SA 4.0+ARR](https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt)
 
 ![CC](https://creativecommons.org/images/deed/svg/cc_blue.svg)![Attribution](https://creativecommons.org/images/deed/svg/attribution_icon_blue.svg)![Share Alike](https://creativecommons.org/images/deed/svg/sa_blue.svg)
 
